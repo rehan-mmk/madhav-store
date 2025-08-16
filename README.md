@@ -29,10 +29,6 @@ The objective of this project is to help the **Madhav Store** owner track and an
 - **Techniques:** Data Modeling, DAX Measures, Interactive Visualizations  
 - **Data Source:** E-commerce sales data across India  
 
----
-
-## 📂 Project Files
-- [Download Dashboard PDF](./madhav_ecommerce_sales_dashboard.pdf)  
 
 ---
 
